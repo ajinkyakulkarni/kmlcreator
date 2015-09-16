@@ -1,0 +1,1 @@
+KMLCreator is a PHP class to create KML files. KML is the Google Earth format to present geographical elements like eares, points, lines, polygons.
